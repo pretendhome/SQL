@@ -1,5 +1,6 @@
 # SQL
 
+
 -- --1 JOIN TABLES
 SELECT employees.emp_no, employees.first_name, employees.last_name, employees.gender, salaries.salary, salaries.from_date
 FROM salaries
